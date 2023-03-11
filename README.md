@@ -4,7 +4,7 @@ This is a simple script that fetches the favicon of a website and saves it to a 
 
 > **Note** This cli uses an [hidden Google API](https://dev.to/derlin/get-favicons-from-any-website-using-a-hidden-google-api-3p1e) to fetch the favicon.
 
-## install
+## Installation
 
 ```bash
 go install github.com/pomdtr/fetch-favicon@latest
