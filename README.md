@@ -2,8 +2,7 @@
 
 This is a simple script that fetches the favicon of a website and saves it to a file.
 
-> **Note** This cli uses an hidden Google API to fetch the favicon.\
-> See this Dev.to article for more information: <https://dev.to/derlin/get-favicons-from-any-website-using-a-hidden-google-api-3p1e>
+> **Note** This cli uses an [hidden Google API](https://dev.to/derlin/get-favicons-from-any-website-using-a-hidden-google-api-3p1e) to fetch the favicon.
 
 ## Usage
 
