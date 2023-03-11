@@ -3,7 +3,7 @@
 This is a simple script that fetches the favicon of a website and saves it to a file.
 
 > **Note** This cli uses an hidden Google API to fetch the favicon.
-> See this Medium article for more information: <https://medium.com/@paul_irish/domain-icon-fonts-in-2020-78f62c4d6d8>
+> See this Dev.to article for more information: <https://dev.to/derlin/get-favicons-from-any-website-using-a-hidden-google-api-3p1e>
 
 ## Usage
 
